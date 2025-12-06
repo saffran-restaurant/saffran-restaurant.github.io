@@ -1,2 +1,4 @@
 # saffran-restaurant.github.io
-Redirect page to website
+Redirect to https://saffran-restaurant.github.io/saffran-restaurant/.
+
+With thanks to https://theorangeone.net/posts/redirecting-static-pages/.
